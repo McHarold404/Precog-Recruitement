@@ -10,7 +10,6 @@ c.Task-2.ipynb consists the data analysis for the scraped tweets around the tren
 d. Make sure that the files and the python notebook are in the same directory else the path to the file will have to be changed.<br>
 
 <h3>TASK-3 </h3> 
-a.Contains the mongodb data. <br>
-b.Relevant .ipynb files contain the script for parsing xml files into mongodb using xml.tree and pymongo <br>
-c.Tags_Wordcloud contains the top 10 tags and a wordcloud of the most important tags. <br>
-d. Make sure that the files and the python notebook are in the same directory else the path to the file will have to be changed.
+a.Relevant .ipynb files contain the script for parsing xml files into mongodb using xml.tree and pymongo <br>
+b.Tags_Wordcloud contains the top 10 tags and a wordcloud of the most important tags. <br>
+c. Make sure that the files and the python notebook are in the same directory else the path to the file will have to be changed.
